@@ -1,12 +1,12 @@
-# Deployando una app React* a GitHub Pages
+# Desplegando una app React* a GitHub Pages
 
 \* creada usando `create-react-app`
 
 # Introducción
 
-En este tutorial te enseñaré cómo puedes crear una app React y deployarla a GitHub Pages.
+En este tutorial te enseñaré cómo puedes crear una app React y desplegarla en GitHub Pages.
 
-Para crear la app React usaré [`create-react-app`](https://create-react-app.dev/), una herramienta que las personas pueden usar para crear aplicaciones React desde cero. Para deployar la app React usaré [`gh-pages`](https://github.com/tschaub/gh-pages), un paquete en npm que las personas pueden usar para hacer deploys a [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages), un servicio gratuito de hosting provisto por GitHub.
+Para crear la app React usaré [`create-react-app`](https://create-react-app.dev/), una herramienta que las personas pueden usar para crear aplicaciones React desde cero. Para desplegar la app React usaré [`gh-pages`](https://github.com/tschaub/gh-pages), un paquete en npm que las personas pueden usar para despliegues a [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages), un servicio gratuito de hosting provisto por GitHub.
 
 Si sigues este tutorial paso a paso tendrás una nueva app React —alojada en GitHub Pages—la cual puedes personalizar luego.
 
@@ -50,7 +50,7 @@ Este tutorial ha sido traducido de su [versión original en Inglés](https://git
 
         > \* Para un [project site](https://pages.github.com/#project-site), puedes ingresar el nombre que quieras. Para un [user site](https://pages.github.com/#user-site), GitHub [requiere](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#types-of-github-pages-sites) que el nombre del repositorio tenga el siguiente formato: `{username}.github.io` (eejemplo: `gitname.github.io`)
         
-        > El nombre que ingreses se mostrará en algunos lugares: (a) referencias al repositorio en GitHub, (b) en la URL del repositorio, y (c) en la URL de la app React deployada.
+        > El nombre que ingreses se mostrará en algunos lugares: (a) referencias al repositorio en GitHub, (b) en la URL del repositorio, y (c) en la URL de la app React desplegada.
 
         > En este tutorial delpoyaré la app React como un project site.
 
